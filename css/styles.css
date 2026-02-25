@@ -62,12 +62,13 @@ img {
 
 .sale-price {
     color: #3C8067;
+    font-size: xx-large;
 }
 
 .list-price {
     color: grey;
     text-decoration: line-through;
-    margin-top: 11%;
+    margin-top: 13%;
     margin-right: 30%;
 }
 
@@ -114,7 +115,7 @@ img {
     .list-price {
         color: grey;
         text-decoration: line-through;
-        margin-top: 7%;
+        margin-top: 8%;
         margin-right: 55%;
     }
 }
